@@ -8,7 +8,7 @@ ISBN 978-0-9962784-6-1<br>
 ## Short Sylabus
 | Week | Date  | Chapter | Read   | Details |
 |------|------:|:-------:|:------:|---------|
-| 0    |  8/19 | 1       | 1-11   | [week 0](chapter1#week0) |
+| 0    |  8/19 | 1       | 1-11   | [week 0](chapter1/details.md#week0) |
 | 1    |  8/26 | 1       | 11-26  | [week 1](chapter1#week1) |
 | 2    |  9/02 | 1       | 34,35  | [week 2](chapter1#week2) |
 | 3    |  9/09 | 2       | 37-50  | [week 3](chapter1#week0) |
