@@ -5,7 +5,7 @@ pages 1-35
 - Thursday - Read Introduction, Pages 1-5
 - Friday - Read pages 6-11 stop after CC
 
-Notes:
+## Notes:
 - Chemistry is the study of matter.
 - `Matter` - Anything that has mass and takes up space.
 - When measuring something, always estimate the distince between the marks. 
@@ -13,7 +13,7 @@ Notes:
 - A digit (or figure) in a measurement is significant if it is not a zero. 
 - A zero digit is significant if it is between non-zero digits or to the right of non-zero digits and to the right of the decimal point.
 
-Examples:
+## Examples:
 
 ![inexact](Ruler-cm-notexact.png)
 
