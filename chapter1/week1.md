@@ -51,10 +51,10 @@ pages 1-35
 **Writing 230cm in scientific notation**
 - First, isolate all the significant digits and write them with a decimal after the first digit. In this case, only the 2 and the 3 are significant. So, we would write it as 2.3.
 - Second, figurat out how many 10s we need to multiply this new number by to get the original. In other words, 2.3 * 10 * 10 = 230. That's 2 10s. We can write that as 10<sub>2</sub>.
-- Finally, we put them together: 2.3 * 10<sub>2</sub> cm
+- Finally, we put them together: 2.3 * 10<sup>2</sup> cm
 - Dont' forget the units
 
 **Writing 0.00230cm in scientific notation**
 - Isolate the significant digits and rewrite them: 2.30 (notice that the last zero is significant because it is after the decimal point, but the leading zeros are not because they are before the first significant digit).
 - Second how many 10s to we need. Well, in this case the number got bigger not smaller. That means we need to divide by 10s instead of multiplying: 2.30 / 10 / 10 / 10 = 0.00230
-- Finally, put them together: 2.30 * 10<sub>-3</sub> cm
+- Finally, put them together: 2.30 * 10<sup>-3</sup> cm
