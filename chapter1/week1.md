@@ -41,3 +41,9 @@ pages 1-35
 - The least number of significant figures is 2, because all of the numbers have 2 significant figures.
 - Now, we multiply (no rounding yet): 3.5cm * 4.0cm * 120cm = 168<sup>3</sup>
 - Finally, rount the answer to get 2 significant figures: 168<sup>3</sup> rounds to 170<sup>3</sup>
+
+**Converting from inches to centimeters: what is 24 inches as centimeters**
+- First, we need to identify the relationship between the two units. We can either look up the relationship in a table or on the internet OR we could measure something in both units to find out the relationship. In either case, we should represent this relationship as a fraction. This fraction is actually equal to the value 1 because the value on the top is equal to the value on the bottom. This means we can use the fraction as in/cm or cm/in depending on what we need. In this case, we want to get rid of inches and end up with centimeters. The unit you want to get rid of should always go on the bottom. So, let's use 2.5cm/1.0in.
+- Now we multiply by our relationship: 24in * 2.5cm/1.0in = 60cm
+- Note that when we multiply we treat the units like an X or Y in an algebra calculation. Let's replace in with X and cm with Y to see what I mean. 24X * 2.5Y/1.0X = because these values are all multiplied, I can cross out the X on top with the X on bottom. That leaves: 24 * 2.5Y/1.0 which equals 60Y. If we replace Y back with cm, we get 60cm.
+- Don't forget that we need to write the answer with the right number of significant figures. Our original numbers all had 2 significant figures. But our answer only has 1. We have lost some significance. To fix that, we need to right the number in **Scientific Notation** as 6.0 * 10 cm.
