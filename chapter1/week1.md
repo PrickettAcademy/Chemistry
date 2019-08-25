@@ -47,3 +47,14 @@ pages 1-35
 - Now we multiply by our relationship: 24in * 2.5cm/1.0in = 60cm
 - Note that when we multiply we treat the units like an X or Y in an algebra calculation. Let's replace in with X and cm with Y to see what I mean. 24X * 2.5Y/1.0X = because these values are all multiplied, I can cross out the X on top with the X on bottom. That leaves: 24 * 2.5Y/1.0 which equals 60Y. If we replace Y back with cm, we get 60cm.
 - Don't forget that we need to write the answer with the right number of significant figures. Our original numbers all had 2 significant figures. But our answer only has 1. We have lost some significance. To fix that, we need to right the number in **Scientific Notation** as 6.0 * 10 cm.
+
+**Writing 230cm in scientific notation**
+- First, isolate all the significant digits and write them with a decimal after the first digit. In this case, only the 2 and the 3 are significant. So, we would write it as 2.3.
+- Second, figurat out how many 10s we need to multiply this new number by to get the original. In other words, 2.3 * 10 * 10 = 230. That's 2 10s. We can write that as 10<sub>2</sub>.
+- Finally, we put them together: 2.3 * 10<sub>2</sub> cm
+- Dont' forget the units
+
+**Writing 0.00230cm in scientific notation**
+- Isolate the significant digits and rewrite them: 2.30 (notice that the last zero is significant because it is after the decimal point, but the leading zeros are not because they are before the first significant digit).
+- Second how many 10s to we need. Well, in this case the number got bigger not smaller. That means we need to divide by 10s instead of multiplying: 2.30 / 10 / 10 / 10 = 0.00230
+- Finally, put them together: 2.30 * 10<sub>-3</sub> cm
