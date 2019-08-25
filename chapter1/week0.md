@@ -5,7 +5,8 @@ pages 1-35
 - Thursday - Read Introduction, Pages 1-5
 - Friday - Read pages 6-11 stop after CC
 
-## [Additional practice for chapter one](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
+
+- [Links for chapter 1](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
 
 ## Notes:
 - Chemistry is the study of matter.
