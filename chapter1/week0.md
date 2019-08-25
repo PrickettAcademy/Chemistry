@@ -5,6 +5,8 @@ pages 1-35
 - Thursday - Read Introduction, Pages 1-5
 - Friday - Read pages 6-11 stop after CC
 
+## [Additional practice for chapter one](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
+
 ## Notes:
 - Chemistry is the study of matter.
 - `Matter` - Anything that has mass and takes up space.
@@ -15,6 +17,7 @@ pages 1-35
 
 ## Examples:
 
+### Measuring
 ![inexact](Ruler-cm-notexact.png)
 
 In the picture above the line length is somewhere between 3.5 cm and 3.6 cm. In Since the ruler can easily show that the length is between these 2 values, we should include this information in the measurement we take. In other words, estimate the next decimal place. To me, it looks like about 3.53 cm (a third of the way from the 5 to 6). Writing the measurement as either 3.5 cm or 3.6 cm would be inaccurate.
@@ -25,6 +28,7 @@ In the picture above, the line length is exactly on the mark of 3.5 cm. However,
 
 So on this measuring device, we would always write the measurement as #.## cm which is always in hundredths of a centimeter. This is one additional decimal place than the device shows directly. The smallest marks on the ruler are tenths of a centimeter. But we can estimate the hundredths place and so we should.
 
+### Significant figures
 All of the following measurements have 4 significant figures:
 - 1234
 - 1004
