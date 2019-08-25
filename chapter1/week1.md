@@ -7,3 +7,9 @@ pages 1-35
 - Wednesday - Watch videos emailed by Mr. Jason
 - Thursday - Class - - Lab 1.1, Lab 1.2, Review Reading
 - Friday - Read pages 19 - 22 stop before Measuring Time
+
+- [Links for chapter 1](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
+
+## Notes:
+
+## Examples:
