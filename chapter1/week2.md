@@ -7,3 +7,8 @@ pages 1-35
 - Wednesday - Study, complete Review pages 34-35, check and correct Review
 - Thursday - Class - - Lab 1.3, Review for Test
 - Friday - Chapter 1 Test
+- [Links for chapter 1](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
+
+## Notes:
+
+## Examples:
