@@ -14,7 +14,7 @@ pages 1-35
 - When measuring something, always estimate the distince between the marks. 
 - Always include the units with your measurements.
 - A digit (or figure) in a measurement is significant if it is not a zero. 
-- A zero digit is significant if it is between non-zero digits or to the right of non-zero digits and to the right of the decimal point.
+- A zero digit is significant if it is between non-zero digits or to the right of non-zero digits AND to the right of the decimal point.
 
 ## Examples:
 
@@ -31,14 +31,14 @@ So on this measuring device, we would always write the measurement as #.## cm wh
 
 ### Significant figures
 All of the following measurements have 4 significant figures:
-- 1234
-- 1004
-- 0000001234000000
-- 0000001004000000
-- 00001.234
-- 00001.004
-- 00001.000
-- 0.0000001234
-- 0.0000001004
-- 0.0000001000
+- 1234 cm
+- 1004 kg
+- 0000001234000000 in
+- 0000001004000000 g
+- 00001.234 mm
+- 00001.004 ml
+- 00001.000 ft
+- 0.0000001234 s
+- 0.0000001004 dg
+- 0.0000001000 ms
 
