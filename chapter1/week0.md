@@ -4,9 +4,9 @@ pages 1-35
 ## Week 0
 - Thursday - Read Introduction, Pages 1-5
 - Friday - Read pages 6-11 stop after CC
-
-
 - [Links for chapter 1](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
+  - [video on measuring](https://www.youtube.com/watch?v=7MzuinoHJg8)
+  - [video on significant figures](https://youtu.be/mPAUD2mcHCM)
 
 ## Notes:
 - Chemistry is the study of matter.
