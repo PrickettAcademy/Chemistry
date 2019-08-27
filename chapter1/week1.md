@@ -7,13 +7,12 @@ pages 1-35
 - **Wednesday** - Watch videos emailed by Mr. Jason
 - **Thursday** - Class - - Lab 1.1, Lab 1.2, Review Reading
 - **Friday** - Read pages 19 - 22 stop before Measuring Time
-- [Links for chapter 1](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
+- [Videos for chapter 1](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
   - [More significant digits and math](https://youtu.be/6oj4y0d44nQ)
   - [Adding/subtracting/multiplying/dividing measurements](https://youtu.be/qW-QK9Hl2hc)
   - [Metric system prefixes](https://youtu.be/DC-VEWSsCbU)
   - [Metric conversion](https://youtu.be/3uEYX7_y9Ek)
   - [Scientific notation](https://youtu.be/Dme-G4rc6NI)
-  - 
 
 ## Notes:
 - When doing math with measurements you need to be careful to keep the right number of significant digits.
