@@ -8,7 +8,12 @@ pages 1-35
 - Wednesday - Study, complete Review pages 34-35, check and correct Review
 - Thursday - Class - - Lab 1.3, Review for Test
 - Friday - Chapter 1 Test
-- [Links for chapter 1](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
+- [Videos for chapter 1](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
+  - [Explanation of mass, volume, and density](https://www.youtube.com/watch?v=n-pQf71TI-w)
+  - [Difference between mass and weight](https://www.youtube.com/watch?v=gjfLI7aJKmQ)
+  - [Archimedes and density](https://www.youtube.com/watch?v=sw66gzBD9fE)
+  - [Density experiment](https://www.youtube.com/watch?v=WNYFUmKiqaU)
+
 
 ## Notes:
 - Matter has mass (not necessarily weight). Weight is not the same as mass. Weight is a measure of the force of gravity on an object. Mass is the measure of the amount of matter in an object.
