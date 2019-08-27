@@ -22,7 +22,7 @@ pages 1-35
 - This can also be written in scientific notation as 1.2 x 10<sup>6</sup> mg
 
 **Calculate the density of an object with a mass of 45 grams and a volume of 15 milliliters**
-- First remember the formula: D = \frac{M}{V} (desity is mass over volume)
+- First remember the formula: D = M/V (desity is mass over volume)
 - Now, plug in what you know (keep the units): D = 45g/15mL
 - Now, solve for D: D = 3.0 g/mL (notice that the units for density is a combination of mass units over volume units). You may also notice that I made sure to put 3.0 instead of 3 to show the right number of significant figures.
 
