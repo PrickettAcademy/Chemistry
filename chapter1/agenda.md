@@ -3,10 +3,15 @@
 ## What's the Matter?
 - Chemistry is the study of matter.
 - `Matter` - Anything that has mass and takes up space.
+- Tell me about what you read and what you learned
 
 ## Measuring Up
 - When measuring something, always estimate the distince between the marks. 
 - Always include the units with your measurements.
+
+## Experments
+- Experiment 1.1: Determining the Relationship Between Inches and Centimeters
+- Experiment 1.2: Determining the Relationship Between Cubic Centimeters and Milliliters
 
 ## Significant Digits/Figures
 - A digit (or figure) in a measurement is significant if it is not a zero. 
