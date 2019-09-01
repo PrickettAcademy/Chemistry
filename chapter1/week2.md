@@ -8,11 +8,13 @@ pages 1-35
 - Wednesday - Study, complete Review pages 34-35, check and correct Review
 - Thursday - Class - - Lab 1.3, Review for Test
 - Friday - Chapter 1 Test
-- [Videos for chapter 1](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
+- Videos
   - [Explanation of mass, volume, and density](https://www.youtube.com/watch?v=n-pQf71TI-w)
   - [Difference between mass and weight](https://www.youtube.com/watch?v=gjfLI7aJKmQ)
   - [Archimedes and density](https://www.youtube.com/watch?v=sw66gzBD9fE)
   - [Density experiment](https://www.youtube.com/watch?v=WNYFUmKiqaU)
+  - [Density song](https://www.youtube.com/watch?v=VfMDC4guXZg&feature=youtu.be)
+  - Optional: [ALL chapter 1 videos](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry/ddc-chapter-1/)
 
 
 ## Notes:
