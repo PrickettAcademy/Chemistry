@@ -1,6 +1,8 @@
 # Chapter 1 - Measuring, units, density
 pages 1-35
 
+$\frac{a}{b}$
+
 ## Week 2
 - Friday - Read pages 19 - 22 stop before Measuring Time
 - Monday - Labor Day (NO WORK)
