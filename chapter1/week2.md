@@ -2,6 +2,7 @@
 pages 1-35
 
 $\frac{a}{b}$
+<box>a<over>b</box>
 
 ## Week 2
 - Friday - Read pages 19 - 22 stop before Measuring Time
