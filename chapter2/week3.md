@@ -39,4 +39,4 @@ pages 37 - 65
 
 ## Other optional videos
 - If you are still unsure about the difference between mixtures (both kinds), compounds, and elements, then check out [this video](https://youtu.be/HgLrMKEN4Iw).
-- 
+- [The story of how conservation of matter was proven](https://youtu.be/x9iZq3ZxbO8)
