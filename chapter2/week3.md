@@ -20,7 +20,7 @@ pages 37 - 65
 - **Compound** - A pure substance that is composed of two or more elements
 - Zinc sulfide is an example of a compound than can be broken down into zinc and sulfur (both elements)
 - The difference between a compound and a mixture is that a compound has it's own properties while a mixture has the same properties as the substances in it
-- **Law of Definite Proportions** - A given compound will always have the same proportions of elements by mass
+- **Law of Definite Proportions** - [video](https://www.youtube.com/watch?v=08-96_wkUi8) - A given compound will always have the same proportions of elements by mass
 
 ## Examples
 **Conservation of Mass** - You burn a piece of wood whose mass is 134g in a closed container with 101g of oxygen. When the fire is out you measure 97.0g of soot left over along with various gasses. What is the total mass of the various gases?
@@ -35,7 +35,7 @@ pages 37 - 65
 - To get 156.5g of Calcium Chloride, we started with 100.0g of Chlorine. The ratio is 100.0g/156.5g = 0.6390 or 63.90% (units cancel out)
 - These ratios tell me that 36.1% of the Calcium Chloride is Calcium and 63.90% is Chlorine. 
 - So, if I want 200g of Calcium Chloride, I need to start with those percentages of 200.
-- I need 36.1% of 200g to be Calcium and 63.90% of 200g to be Chlorine. 200.0g * 0.361 = 72.2g of Calcium. 200.0g * 0.6390 = 127.8g of Chlorine.
+- I need 36.1% of 200g to be Calcium and 63.90% of 200g to be Chlorine. 200.0g * 0.361 = **72.2g of Calcium**. 200.0g * 0.6390 = **127.8g of Chlorine**.
 
 ## Other optional videos
 - If you are still unsure about the difference between mixtures (both kinds), compounds, and elements, then check out [this video](https://youtu.be/HgLrMKEN4Iw).
