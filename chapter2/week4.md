@@ -43,3 +43,6 @@ pages 37 - 65
 
 ## Optional videos
 - [Rap about mixtures, compounds, etc](https://youtu.be/yzGSLA68_Hw)
+
+## In class videos
+- [The history of the Atom](https://www.youtube.com/watch?v=LhveTGblGHY)
