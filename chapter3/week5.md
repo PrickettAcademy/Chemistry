@@ -8,14 +8,6 @@ pages 67 - 96
 - Wednesday - Read pages 78-82 stop before Illuminating the Structure of Atoms
 - Thursday - Class - Lab 3.1,  Review Reading
 
-## Week 6
-- Friday - Read pages 83 -87 stop before More on the Bohr Model
-- Monday - Read pages 87-90
-- Tuesday - Study, complete Review pages 95-96, check and correct Review
-- Wednesday - CATCH-UP DAY, Study, & Complete Lab Write-ups
-- Thursday - Class - Lab 3.2, Review for Test
-- Friday - Chapter 3 Test
-
 ## Notes
 
 - **Chemical symbols** - abbreviations used to represent the elements on the periodic table. In most cases, this is the first 2 letters of its english or latin name.
@@ -37,7 +29,25 @@ pages 67 - 96
 - **Nuclear power** - power plants that use fission reactions to produce heat and energy. If a nuclear power plant runs out of control it causes a **meltdown** (not an explosion).
 - **Light Waves** - Light travels in waves. Each wave has a crest and a trough.
 - **Wavelength** - distance from one crest of a wave to the next crest. (or trough to trough)
-- **frequency** - The fequency of light is calculated as *f* = c/y
+- **Amplitude** - distance from the top of the crest to the middle of the wave (or the distance from there to the botttom of the trough).
+- **frequency** - The fequency of light is calculated as *f* = c/&lambda; where f stands for frequency; c stands for the speed of light; and &lambda; stands for the wavelength of the light.
+- **Hertz (Hz)** - the units for frequency. 1 Hz = 1/sec
+- Wavelengths are usually measured in nm (namometers). 1 nm = 10<sup>-9</sup>m
+- The electromagnetic spectrum - The is the name for all the wavelengths of light including the visible light that we can see.
+- Gamma rays have a high frequency, short wavelength, and lots of energy
+- Long radio waves have a low frequency, long wavelength, and very little energy
+- Energy is measure in Joules (J).
+- The energy in a single photon of light is calculated by the equation E = h * f where E is the energy; h is a constant; and f is the frequency of the light. As the frequency grows so does the energy.
+- The constant **h** is called Plank's constant and is equal to 6.63 * 10<sup>-34</sup> J * sec
 
+## Examples
+CC5. What is the wavelength of violet light, which has a frequency of 7.89 * 10<sup>14</sup>Hz
+- First, remember the equation: f = c/&lambda;
+- Now, rearrange it so that &lambda; is on the left side (using algebra). &lambda; = c/f 
+- We were given c = 3.00 * 10<sup>8</sup> m/sec
+- Let's convert c to nm/sec. c = 3.00 * 10<sup>8</sup> m/sec * 10<sup>9</sup>nm/m = 3.00 * 10<sup>17</sup> nm/sec
+- So, &lambda; = 7.89 * 10<sup>14</sup>Hz / 3.00 * 10<sup>17</sup> nm/sec = **2.63 * 10<sup>-3</sup>nm**
+- Note that Hz and sec cancel out because Hz = 1/sec
+- So, &lambda; = 
 
 ## Optional videos
