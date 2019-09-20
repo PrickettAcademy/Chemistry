@@ -45,9 +45,8 @@ CC5. What is the wavelength of violet light, which has a frequency of 7.89 * 10<
 - First, remember the equation: f = c/&lambda;
 - Now, rearrange it so that &lambda; is on the left side (using algebra). &lambda; = c/f 
 - We were given c = 3.00 * 10<sup>8</sup> m/sec
-- Let's convert c to nm/sec. c = 3.00 * 10<sup>8</sup> m/sec * 10<sup>9</sup>nm/m = 3.00 * 10<sup>17</sup> nm/sec
-- So, &lambda; = 7.89 * 10<sup>14</sup>Hz / 3.00 * 10<sup>17</sup> nm/sec = **2.63 * 10<sup>-3</sup>nm**
+- So, &lambda; = 3.00 * 10<sup>8</sup> m/sec / 7.89 * 10<sup>14</sup>Hz  = 3.80 * 10<sup>-7</sup>m
 - Note that Hz and sec cancel out because Hz = 1/sec
-- So, &lambda; = 
+- Now convert it to nm. 3.80 * 10<sup>-7</sup>m * 10<sup>9</sup>nm/m = **3.80 * 10<sup>2</sup>nm**
 
 ## Optional videos
