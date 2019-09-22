@@ -24,7 +24,7 @@ pages 67 - 96
 - The atomic mass of an element listed on the periodic table is a weighted average of the masses of all common isotopes. This means that the most common isotopes make up a bigger part of the average than the rarer isotopes.
 - **Radioactive decay** - The spontaneous breakdown of an atom's nucleus, which often changes the element to which the atom belongs.
 - **Radioactive isotope** - Some isotopes of elements are stable and some are not. Unstable isotopes like C-14 will decay into other elements.
-- **Chain reaction** - A fission reaction if left unchecked will continue to grow causing a chain reaction and can produce a powerful explosion.
+- **Chain reaction** - [video](https://youtu.be/0v8i4v1mieU) - A fission reaction if left unchecked will continue to grow causing a chain reaction and can produce a powerful explosion.
 - **Isotopic enrichment** - A process of extacting certain isotopes of an element. This is not a chemical process since these are isotopes.
 - **Nuclear power** - power plants that use fission reactions to produce heat and energy. If a nuclear power plant runs out of control it causes a **meltdown** (not an explosion).
 - **Light Waves** - Light travels in waves. Each wave has a crest and a trough.
@@ -67,4 +67,4 @@ CC8. What is the wavelength of a photon with an energy of 6.81 * 10<sup>-17</sup
 ## Optional videos
 - [Discussion of protons, neutrons, electrons, and atoms](https://youtu.be/h6LPAwAmnCQ)
 - [Counting the number of protons, electrons, and neutrons](https://youtu.be/2kbGYy9N3Rk)
-- 
+- [If you want to learn more about radioactive decay, this video gives a good summary of the different kinds of radioactive decay that can happen](https://youtu.be/oFdR_yMKOCw)
