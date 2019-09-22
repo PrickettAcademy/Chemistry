@@ -48,5 +48,23 @@ CC5. What is the wavelength of violet light, which has a frequency of 7.89 * 10<
 - So, &lambda; = 3.00 * 10<sup>8</sup> m/sec / 7.89 * 10<sup>14</sup>Hz  = 3.80 * 10<sup>-7</sup>m
 - Note that Hz and sec cancel out because Hz = 1/sec
 - Now convert it to nm. 3.80 * 10<sup>-7</sup>m * 10<sup>9</sup>nm/m = **3.80 * 10<sup>2</sup>nm**
+- Here's a [video](https://youtu.be/dpPgsgWq9CQ) on how to do these problems if you want more practice
+
+CC8. What is the wavelength of a photon with an energy of 6.81 * 10<sup>-17</sup>J?
+- First, remember the equation: E = h * f where h is Plank's constant
+- Fill in what we know: 6.81 * 10<sup>-17</sup>J = 6.63 * 10<sup>-34</sup> J * sec * f
+- Solve for f: f = 6.81 * 10<sup>-17</sup>J / 6.63 * 10<sup>-34</sup> J * sec
+- The J's cancel so the units will end up as 1/sec or Hz
+- f = 1.03 * 10<sup>17</sup> Hz (but that's the frequency not the wavelength - we aren't done)
+- Remember the equation: f = c/&lambda;
+- Now, rearrange it so that &lambda; is on the left side (using algebra). &lambda; = c/f 
+- Fill in what we know: &lambda; = 3.00 * 10<sup>8</sup> m/sec / 1.03 * 10<sup>17</sup> Hz
+- Solve for &lambda; 
+- the /sec and Hz cancel each other out since Hz is 1/sec
+- &lambda; = 2.91 * 10<sup>-9</sup>m
+- converting to nm:  &lambda; = 2.91 * 10<sup>-9</sup> m * 10<sup>9</sup>nm / 1m = **2.91nm**
 
 ## Optional videos
+- [Discussion of protons, neutrons, electrons, and atoms](https://youtu.be/h6LPAwAmnCQ)
+- [Counting the number of protons, electrons, and neutrons](https://youtu.be/2kbGYy9N3Rk)
+- 
