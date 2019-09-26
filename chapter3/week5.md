@@ -68,3 +68,8 @@ CC8. What is the wavelength of a photon with an energy of 6.81 * 10<sup>-17</sup
 - [Discussion of protons, neutrons, electrons, and atoms](https://youtu.be/h6LPAwAmnCQ)
 - [Counting the number of protons, electrons, and neutrons](https://youtu.be/2kbGYy9N3Rk)
 - [If you want to learn more about radioactive decay, this video gives a good summary of the different kinds of radioactive decay that can happen](https://youtu.be/oFdR_yMKOCw)
+
+## Class videos
+- [How the periodic table was created](https://youtu.be/fPnwBITSmgU)
+- [Periodic elements song](https://youtu.be/zGM-wSKFBpo)
+- [Don't try this at home](https://youtu.be/jn4Vhkmb4Lw)
