@@ -23,14 +23,14 @@ pages 97 - 125
 - d orbitals start at energy level 3 and exist in all higher levels as well. There are 5 d orbitals in each energy level that has them.
 - there are new orbital shapes at every energy level. Energy level 4 has f orbitals and energy level 5 has g orbitals.
 - Each orbital can only hold 2 electrons
-- **Wave-particle duality** - the concept that light as well as many subatomic particals have the properties of both particles and waves.
+- **Wave-particle duality** - [video](https://youtu.be/J1yIApZtLos) - the concept that light as well as many subatomic particals have the properties of both particles and waves.
 - **Aufbau principle** - Electrons fill orbitals starting with the lowest-energy ones and then filling higher-energy orbitals as needed.
 - Carbon has electrons in the following orbitals: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>2</sup> (using **electron configuration** notation)
 - 3d orbitals are actually higher energy orbitals than 4s. This means that an electron will fill the 4s before the 3d orbitals.
 - **Valence electrons** - an atom's outermost electrons
 - The Noble gases are those in column 8A on the periodic table. Their valence electrons are *full*. These can be used to shorten the electron configuration notation by starting from the noble gas that's "smaller" and adding the orbitals that come after it. 
 - Elements in the same column of the Periodic Table have similar chemistry.
-- Lewis structures is an easy way to see how close an element is to *full* with regards to its valence electrons.
+- Lewis structures ([video](https://youtu.be/y6QZRBIO0-o)) is an easy way to see how close an element is to *full* with regards to its valence electrons.
 - *ions* are elements where the number of electrons is NOT the same as the number of protons. If the number of electrons are more than the number of protons then the element will have a negative charge. If the number of elecrons is less than the number of protons, then the element will have a positive charge.
 - *anions* are ions with a negative charge. Anions are named with *-ide*. I.e. Sulfide ion written as the element abbrevation and the charge like S<sup>2-</sup>
 - *cations* are ions with a positive charge. Cations are named with the element name as is. I.e. Sodium ion written as the element abbrevation and the charge like Na<sup>+</sup>
@@ -58,5 +58,7 @@ CC4. Electron configuration for Oxygen
 - We can write this as **1s<sup>2</sup>2s<sup>2</sup>2p<sup>4</sup>**
 
 ## Optional Videos
+
+- [Working thru electron configurations](https://youtu.be/8TZ97JLWqMA)
 
 ## Class Videos
