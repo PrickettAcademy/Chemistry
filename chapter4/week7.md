@@ -13,7 +13,7 @@ pages 97 - 125
 - Photons act like particles in some ways and like waves in other ways. Because they are waves the photon waves can interfere with each other. This is called **constructive interference** when the waves get bigger and **destructive interference** when the waves get smaller.
 - You can see the wave interference by shining the light through small openings/slits that are close enough together. Thomas Young studied this in 1801.
 - Light also behaves like a particle as in **photoelectric effect** when light is shown on a metal and causes it to emit electrons.
-- **orbitals** are shapes that define an area where the electron lives. They are sometimes called **electron clouds**.
+- **orbitals** ([video](https://youtu.be/sMt5Dcex0kg)) are shapes that define an area where the electron lives. They are sometimes called **electron clouds**.
 - The **s orbitals** are spherical and the **p orbitals** are shaped like dumbbells.
 
 ![S and P orbitals](sandpshells.png)
@@ -23,11 +23,21 @@ pages 97 - 125
 - d orbitals start at energy level 3 and exist in all higher levels as well. There are 5 d orbitals in each energy level that has them.
 - there are new orbital shapes at every energy level. Energy level 4 has f orbitals and energy level 5 has g orbitals.
 - Each orbital can only hold 2 electrons
-
 - **Wave-particle duality** - the concept that light as well as many subatomic particals have the properties of both particles and waves.
 - **Aufbau principle** - Electrons fill orbitals starting with the lowest-energy ones and then filling higher-energy orbitals as needed.
-- Carbon has electrons in the following orbitals: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>2</sup>
-
+- Carbon has electrons in the following orbitals: 1s<sup>2</sup>2s<sup>2</sup>2p<sup>2</sup> (using **electron configuration** notation)
+- 3d orbitals are actually higher energy orbitals than 4s. This means that an electron will fill the 4s before the 3d orbitals.
+- **Valence electrons** - an atom's outermost electrons
+- The Noble gases are those in column 8A on the periodic table. Their valence electrons are *full*. These can be used to shorten the electron configuration notation by starting from the noble gas that's "smaller" and adding the orbitals that come after it. 
+- Elements in the same column of the Periodic Table have similar chemistry.
+- Lewis structures is an easy way to see how close an element is to *full* with regards to its valence electrons.
+- *ions* are elements where the number of electrons is NOT the same as the number of protons. If the number of electrons are more than the number of protons then the element will have a negative charge. If the number of elecrons is less than the number of protons, then the element will have a positive charge.
+- *anions* are ions with a negative charge. Anions are named with *-ide*. I.e. Sulfide ion written as the element abbrevation and the charge like S<sup>2-</sup>
+- *cations* are ions with a positive charge. Cations are named with the element name as is. I.e. Sodium ion written as the element abbrevation and the charge like Na<sup>+</sup>
+- Most elements are considered metals or non-metals
+- Metals have luster, are maleable and tend to conduct electricity. 
+- Non-metals are dull, are brittle and don't tend to conduct electricity.
+- Some elements are in the middle. We call these **metalloids**
 
 ## Examples
 
@@ -39,6 +49,13 @@ CC2. What types of orbitals are available to an electron in the second energy le
 
 CC3. An electron occupies a d orbital. What is its minimum energy level?
 - d orbitals start at **energy level 3**.
+
+CC4. Electron configuration for Oxygen 
+- O is in column 6a on the periodic table
+- O has 8 protons and thus 8 electrons
+- Each orbital can take 2 electrons. 8 / 2 = 4 orbitals
+- The first 4 orbitals are 1s, 2s, 2p<sub>x</sub>, 2p<sub>y</sub>
+- We can write this as **1s<sup>2</sup>2s<sup>2</sup>2p<sup>4</sup>**
 
 ## Optional Videos
 
