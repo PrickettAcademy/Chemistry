@@ -60,5 +60,9 @@ CC4. Electron configuration for Oxygen
 ## Optional Videos
 
 - [Working thru electron configurations](https://youtu.be/8TZ97JLWqMA)
+- [Advanced explanation of how election configuration works](https://www.youtube.com/watch?v=2AFPfg0Como)
 
 ## Class Videos
+ 
+- [light is a wave](https://youtu.be/Iuv6hY6zsd0)
+- [Electrons as waves](https://youtu.be/EOHYT5q5lhQ)
