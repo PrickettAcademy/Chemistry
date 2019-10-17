@@ -44,3 +44,7 @@ CC12. What's the chemical formula for alumninum oxide
 
 - [Finding the chemical formula for a compound](https://youtu.be/vscoYh6m46M)
 - [Review of the periodic table](https://youtu.be/Zg6KeXsDVwY)
+
+## Class videos
+
+- [lewis dot structures](https://youtu.be/ulyopnxjAZ8)
