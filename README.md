@@ -42,4 +42,9 @@ ISBN 978-0-9962784-6-1<br>
 | 31   |  4/27 | 16      | 483-494 |  |
 | 32   |  5/04 | 16      | 494-512 |  |
 
+## Useful links
+
+- [Online tool to get lewis structures - Wolfram](https://www.wolframalpha.com/widgets/view.jsp?id=c11e9ad0ab00998884f0733c8f62c07d)
+- [Links to textbook info](https://bereanbuilders.com/ecomm/online-content/discovering-design-with-chemistry)
+- [Interactive Periodic Table](https://www.ptable.com/)
 
