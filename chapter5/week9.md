@@ -27,7 +27,7 @@ pages 127 - 159
 - The only time the prefix is omitted is if the first element in the name would have "mono". So, if there is no prefix on the first element in the name, it has 1 atom in the formula.
 - The text book didn't mention which element to list first when naming or writing the chemical formula. I found this on the internet which seems correct: "You also need to know which element to put first in the formulas and names of these compounds. Generally, they are in the same left-to-right order that they are on the periodic table, except that you would have to squeeze hydrogen in between nitrogen and oxygen."
 - **Atomic radius** - The distance from the center of the nucleus to the atom's valence electrons. As you travel up the Periodic Table and to the right, the atomic radius decreases.
-- **Electromagnetivity** - A measure of how strongly atoms attract electrons in a covalent bond. As you travel up the Periodic Table and to the right, electromagnetivity increases. These numbers tell us how strongly the atom will pull on electrons. The higher the number, the stronger the pull.
+- **Electromagnetivity** - [video](https://youtu.be/5z54GfoBP0k) - A measure of how strongly atoms attract electrons in a covalent bond. As you travel up the Periodic Table and to the right, electromagnetivity increases. These numbers tell us how strongly the atom will pull on electrons. The higher the number, the stronger the pull.
 - **Polar covalent bonds** - A covalent bond in which the electrons are not shared equally.
 - **Polar covalent molecule** - A molecule that has an uneven distribution of electrons resulting in slight charges within the molecule itself. For example, a water molecule has a more negative charge near the oxygen and more positive charge near the hydrogens.
 - A polar covalent molecule MUST HAVE polar covalent bonds.
@@ -77,5 +77,6 @@ CC8. Lewis structure for NF<sub>3</sub>?
 
 ## Optional videos
 
+- [Another way to figure out Lewis structures](https://youtu.be/1ZlnzyHahvo)
 
 ## Class videos
