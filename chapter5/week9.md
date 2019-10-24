@@ -80,3 +80,7 @@ CC8. Lewis structure for NF<sub>3</sub>?
 - [Another way to figure out Lewis structures](https://youtu.be/1ZlnzyHahvo)
 
 ## Class videos
+- [Exellent instructions for drawing lewis dot structures](https://www.youtube.com/watch?v=cIuXl7o6mAw)
+- [Lewis Dot structures with Professor Dave](https://www.youtube.com/watch?v=Sk7W2VgbhOg)
+- [Bonding song](https://www.youtube.com/watch?v=BCYrNU-7SfA)
+- [Another bonding song](https://www.youtube.com/watch?v=oNBzyM6TcK8)
