@@ -13,7 +13,7 @@ pages 127 - 159
 
 ## Notes
 
-- Lewis structure roles (from video)
+- Lewis structure rules (from video)
   1. Count all the valence electrons in the atoms (count every atom even if its there 3 or 4 times)
   2. Determine the central atom. (probably the one there is only one of or the one with the most unpaired electrons)
   3. Draw single bonds from each other atom to the central atom.
