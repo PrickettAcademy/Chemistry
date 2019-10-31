@@ -68,6 +68,8 @@ CC13. Is ammonia NH<sub>3</sub> polar or non-polar?
 ## Optional videos
 
 - short video on [the polarity of water](https://youtu.be/ASLUY2U1M-8)
-- 
 
 ## Class videos
+- [how soap works](https://www.youtube.com/watch?v=ZOKAoNbJkSg)
+- [chemical bond song](https://www.youtube.com/watch?v=wWUYHHo-zB0)
+- [molecular shapes rap](https://www.youtube.com/watch?v=ZCctlT0cayU)
