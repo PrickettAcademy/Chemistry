@@ -15,8 +15,15 @@ pages 161 - 196
 
 - While balancing a chemical equation, you can change the numbers to the left of the molecules (reactants or products) as mush as you want. You just can't change the subscripts (little numbers) in the chemical formulas.
 - The fact that an element is a homonuclear diatomic is only important if it is not in a compound and not an ion.
-- [Quick video on balancing equations using algebra](https://youtu.be/TUuABq95BBM)
-- [Longer video on balancing equations using trial and error](https://youtu.be/aQw9GqDEgeE)
+- [Video on balancing equations using trial and error](https://youtu.be/aQw9GqDEgeE) - I will use this method!
+- [Video on balancing equatinos using algebra](https://youtu.be/tUBzpsvMeWg) - Feel free to use this if you like it :)
+- **Formation reaction** - A reaction in which 2 or more elements react together to form a single compound.
+- **Decompition reaction** - A reaction in which the only reactant is a compound and the products are the elements from which the compound is made.
+- **Single displacement reaction** - 
+- **Double displacement reaction** - 
+- **Combustion reaction** -
+- **Complete combustion** -
+- **Incomplete combustion** -
 
 ## Examples
 
