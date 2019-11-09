@@ -15,7 +15,8 @@ pages 161 - 196
 
 - While balancing a chemical equation, you can change the numbers to the left of the molecules (reactants or products) as mush as you want. You just can't change the subscripts (little numbers) in the chemical formulas.
 - The fact that an element is a homonuclear diatomic is only important if it is not in a compound and not an ion.
-- 
+- [Quick video on balancing equations using algebra](https://youtu.be/TUuABq95BBM)
+- [Longer video on balancing equations using trial and error](https://youtu.be/aQw9GqDEgeE)
 
 ## Examples
 
@@ -36,7 +37,7 @@ CC8. balance how C<sub>3</sub>H<sub>8</sub> combines with O<sub>2</sub> to produ
 - Reactants C=3 H=8 O=2, products C=3 H=8 O=10. So, we just need more O's on the reactants. Let's increase those to 10.
 - Now we have C<sub>3</sub>H<sub>8</sub> + **5**O<sub>2</sub> --> 3CO<sub>2</sub> + 4H<sub>2</sub>O
 - Double check the counts: Reactants C=3 H=8 O=10, products C=3 H=8 O=10 - THEY MATCH!
-- balanced: **C<sub>3</sub>H<sub>8</sub> + 5O<sub>2</sub> --> 3CO<sub>2</sub> + 4H<sub>2</sub>O**
+- balanced: **C<sub>3</sub>H<sub>8</sub>(g) + 5O<sub>2</sub>(g) --> 3CO<sub>2</sub>(g) + 4H<sub>2</sub>O(g)**
 
 CC9. balance H<sub>2</sub> + CO --> C<sub>8</sub>H<sub>18</sub> + H<sub>2</sub>O
 - Reactants H=2 C=1 O=1, products C=8 H=(18+2)=20 O=1. Since the numbers are pretty big, let's take it slow. Let's increase the C's on the reactant side first to 8.
@@ -46,7 +47,7 @@ CC9. balance H<sub>2</sub> + CO --> C<sub>8</sub>H<sub>18</sub> + H<sub>2</sub>O
 - Reactants H=2 C=8 O=8, products C=8 H=(18+16)=34 O=8. Finally, let's work on the H's, we need to increase the reactants side to 34.
 - **17**H<sub>2</sub> + 8CO --> C<sub>8</sub>H<sub>18</sub> + 8H<sub>2</sub>O
 - double check the numbers: reactants H=34 C=8 O=8, products C=8 H=(18+16)=34 O=8. we are balanced!
-- **17H<sub>2</sub> + 8CO --> C<sub>8</sub>H<sub>18</sub> + 8H<sub>2</sub>O**
+- **17H<sub>2</sub>(g) + 8CO(g) --> C<sub>8</sub>H<sub>18</sub>(g) + 8H<sub>2</sub>O(g)**
 
 
 ## Optional videos
