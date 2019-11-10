@@ -68,7 +68,22 @@ CC12. show the balanced chemical equation for the formation of HNO<sub>3</sub>
 - Double check the counts: reactants: H=2 N=2 O=6  products: H=2 N=2 O=6 -- We are balanced!
 - **H<sub>2</sub> + N<sub>2</sub> + 3O<sub>2</sub> --> 2HNO<sub>3</sub>**
 
+CC14. give the equation for the complete combustion of C<sub>6</sub>H<sub>14</sub>
+- First, you have to remember the definition of **complete combustion** and **combustion reaction**. Combustion means we react something with oxygen. And complete combustion means the products are just carbon dioxide and water.
+- So we start with: C<sub>6</sub>H<sub>14</sub> + O<sub>2</sub> --> CO<sub>2</sub> + H<sub>2</sub>O
+- Now, we need to balance it. The counts are: reactants: C=6 H=14 O=2  products: C=1 H=2 O=3. Since we have 3 elements, this could get messy, but lets start with the C's and see what happens. So, I will adjust the CO<sub>2</sub> on the right side to be 6.
+- C<sub>6</sub>H<sub>14</sub> + O<sub>2</sub> --> **6**CO<sub>2</sub> + H<sub>2</sub>O
+- reactants: C=6 H=14 O=2  products: C=6 H=2 O=13. Now let's work on the H's. We need 14 of those on the right side.
+- C<sub>6</sub>H<sub>14</sub> + O<sub>2</sub> --> 6CO<sub>2</sub> + **7**H<sub>2</sub>O
+- reactants: C=6 H=14 O=2  products: C=6 H=14 O=19. Finally, let's work on the O's. We have 19 on the right so let's bump up the left side to 19 (half of 19 is 19/2).
+- C<sub>6</sub>H<sub>14</sub> + **(19/2)**O<sub>2</sub> --> 6CO<sub>2</sub> + 7H<sub>2</sub>O - almost there. Let's get rid of the fraction by multiplying both sides by the denomitor, 2
+- **2**C<sub>6</sub>H<sub>14</sub> + **19**O<sub>2</sub> --> **12**CO<sub>2</sub> + **14**H<sub>2</sub>O
+- Double check the counts: reactants: C=12 H=28 O=38  products: C=12 H=28 O=38 -- We are balanced!
+**2C<sub>6</sub>H<sub>14</sub> + 19O<sub>2</sub> --> 12CO<sub>2</sub> + 14H<sub>2</sub>O**
+
 ## Optional videos
 
 ## Class videos
+- [Fireworks](https://youtu.be/nPHegSulI_M)
+- [Thermite](https://youtu.be/w6cMmk8LZgQ)
 
