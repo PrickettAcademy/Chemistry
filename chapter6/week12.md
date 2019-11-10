@@ -16,7 +16,7 @@ pages 161 - 196
 - While balancing a chemical equation, you can change the numbers to the left of the molecules (reactants or products) as mush as you want. You just can't change the subscripts (little numbers) in the chemical formulas.
 - The fact that an element is a homonuclear diatomic is only important if it is not in a compound and not an ion.
 - [Video on balancing equations using trial and error](https://youtu.be/aQw9GqDEgeE) - I will use this method!
-- [Video on balancing equatinos using algebra](https://youtu.be/tUBzpsvMeWg) - Feel free to use this if you like it :)
+- [Video on balancing equations using algebra](https://youtu.be/tUBzpsvMeWg) - Feel free to use this if you like it :)
 - **Formation reaction** - A reaction in which 2 or more elements react together to form a single compound.
 - **Decompition reaction** - A reaction in which the only reactant is a compound and the products are the elements from which the compound is made.
 - **Single displacement reaction** - A reaction in which one element or ion in a compound is replaced by a different element or ion.
@@ -58,6 +58,15 @@ CC9. balance H<sub>2</sub> + CO --> C<sub>8</sub>H<sub>18</sub> + H<sub>2</sub>O
 - double check the numbers: reactants H=34 C=8 O=8, products C=8 H=(18+16)=34 O=8. we are balanced!
 - **17H<sub>2</sub>(g) + 8CO(g) --> C<sub>8</sub>H<sub>18</sub>(g) + 8H<sub>2</sub>O(g)**
 
+CC12. show the balanced chemical equation for the formation of HNO<sub>3</sub>
+- To get started, you need to notice the word *formation* in the question and remember the definiton of a formation equation. Basically, it's one where **elements** are combines to **form** a single compound.
+- So, this equation should have elements on the left and one compound on the right. Of course, some of those elements may be homonuclear diatomic molecules (like H, N, and O)
+- So, you might start with this: H<sub>2</sub> + N<sub>2</sub> + O<sub>2</sub> --> HNO<sub>3</sub>
+- Now we have to balance it. There's 2 of each element on the left which means we should probably have 2 molecules on the right at least.
+- H<sub>2</sub> + N<sub>2</sub> + O<sub>2</sub> --> **2**HNO<sub>3</sub> - That fixes the H and the N, but not the O's. We now have 6 O's on the right and only 2 on the left. But, that's easy to fix...
+- H<sub>2</sub> + N<sub>2</sub> + **3**O<sub>2</sub> --> 2HNO<sub>3</sub>
+- Double check the counts: reactants: H=2 N=2 O=6  products: H=2 N=2 O=6 -- We are balanced!
+- **H<sub>2</sub> + N<sub>2</sub> + 3O<sub>2</sub> --> 2HNO<sub>3</sub>**
 
 ## Optional videos
 
