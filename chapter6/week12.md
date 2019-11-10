@@ -19,11 +19,13 @@ pages 161 - 196
 - [Video on balancing equatinos using algebra](https://youtu.be/tUBzpsvMeWg) - Feel free to use this if you like it :)
 - **Formation reaction** - A reaction in which 2 or more elements react together to form a single compound.
 - **Decompition reaction** - A reaction in which the only reactant is a compound and the products are the elements from which the compound is made.
-- **Single displacement reaction** - 
-- **Double displacement reaction** - 
-- **Combustion reaction** -
-- **Complete combustion** -
-- **Incomplete combustion** -
+- **Single displacement reaction** - A reaction in which one element or ion in a compound is replaced by a different element or ion.
+- **Double displacement reaction** - A reaction in which 2 elements or ions in 2 different compounds switch places, each becoming part of the other compound.
+- **Combustion reaction** -The process by which a chemical reacts with oxygen to form one or more products as well as heat and usually light.
+- **Complete combustion** - A combustion reaction in which the only products are carbon dioxide and water.
+- **Incomplete combustion** - A combustion reaction in which carbon monoxide and/or elemental carbon are formed in addition to water. 
+- Remember that just because something seems to burn or explode, doesn't make the reaction a combustion reaction. By the definition above a combustion reaction is one where a compound or element reacts with **oxygen**.
+
 
 ## Examples
 
