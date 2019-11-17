@@ -11,17 +11,19 @@ pages 197 - 225
 
 ## Notes
 
-- **Stoichiometry** is the part of chemistry that studies amounts of substances that are involved in reactions. Like reading a balanced equation as a recipe.
+- **Stoichiometry** is the part of chemistry that studies amounts of substances that are involved in reactions. Like reading a balanced equation as a recipe. [Video on what this is](https://youtu.be/7ln4DSfFGak)
 - **Avagadro's number** is the number 6.02 * 10<sup>23</sup>. This is the number of atoms/molecules in a single mole of a substance.
-- **Mole** is a word chemists use to refer to Avagadro's number. Similar to the word dozen.
+- **Mole** ([video](https://youtu.be/Pft2CASl0M0)) is a word chemists use to refer to Avagadro's number. Similar to the word dozen.
 - When you see the number below the chemical symbol on the periodic chart, it means 2 things: It is the mass of a single atom in amu (atomic mass units); and it is the number of grams you need to collect to have a mole of those atoms. 
 - When determining the mass of a molecule, always use the rules of addition for sig figs. DO NOT use the rules for multiplication, even though you may do some multiplying.
+- [Video on converting from moles to grams or moles to number of molecules](https://youtu.be/xPdqEX_WMjo)
 - **Molar mass** - the mass of one molecule. This tells you the number of grams in one mole of the substance.
 - **Hygroscopic** - readily absorbing moisture, even from the atmosphere
 - **hydrated** - used to describe a substance that is hygroscopic
 - **anhydrous** - used to describe a hydrated compound that has had the water removed
 - A chemical equation gives the amounts of the reactants and products in moles.
 - The conversion relationships you get from chemical equations are exact.
+- [Video of using the chemical formula to get the number of moles](https://youtu.be/qRVUNCw9fOY)
 
 ## Examples
 
@@ -67,6 +69,11 @@ CC6. how many moles of Al and Br<sup>2</sup> would you need to make 0.407 moles 
 
 ## Optional videos
 
+- [Good video on explanation of a mole](https://youtu.be/TEl4jeETVmg)
+- [More help on mole conversions](https://youtu.be/1qyWbyFKzxk)
+- [Video of a slight boom](https://youtu.be/98ulOPFpKck)
+
 ## Class videos
 
-video on moles: https://youtu.be/Pft2CASl0M0
+- [Mole song](https://youtu.be/PvT51M0ek5c)
+
