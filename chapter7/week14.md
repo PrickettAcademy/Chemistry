@@ -16,6 +16,7 @@ pages 197 - 225
 - Knowing which substance in a chemical equation is the limiting reactant helps us figure out how much of the other reactants will be used and how much product will be created.
 - Stoichiometry also allows us to take the amount of product we want and figure out how much of each reactant we need.
 - Usually, you are given amounts in grams. You then have to convert to moles to use the chemical equation. Finally, you may have to convert back to grams to give the answer.
+- [Video on converting from grams to moles to moles and back to grams](https://youtu.be/LQq203gyftA)
 - effervescent tablets - something like Alka-Seltzer that bubbles in water. 
 
 ## Examples
