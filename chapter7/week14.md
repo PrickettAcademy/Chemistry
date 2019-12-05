@@ -21,6 +21,9 @@ pages 197 - 225
 
 ## Examples
 
+[Extra problems we looked at in class](https://bereanbuilders.com/olc/ddchem/ch7_exprob.pdf)
+[Solutions to extra problems](https://bereanbuilders.com/olc/ddchem/ch7_exproba.pdf)
+
 CC8. Given 115.9 moles of NH<sup>3</sup> and 4NH<sup>3</sup> + 5O<sup>2</sup> --> 4NO + 6H<sup>2</sup>O, how many moles of water are produced?
 - The relationship given by the equation says that 4NH<sup>3</sup> = 6H<sup>2</sup>O. So, we can convert from one to other with the conversion ratio of 4 moles of NH<sup>3</sup> / 6 moles of H<sup>2</sup>O
 - So, let's convert: 115.9 moles of NH<sup>3</sup> * (6 moles of H<sup>2</sup>O / 4 moles of NH<sup>3</sup>)
