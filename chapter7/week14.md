@@ -2,7 +2,7 @@
 
 pages 197 - 225
 
-## Week 13
+## Week 14
 
 - Friday - Read pages 209 - 212 stop before Stoichiometry Gets Massive
 - Monday - Read pages 212 - 217
@@ -62,3 +62,7 @@ CC12. Given 3CaCl<sup>2</sup> + Al<sup>2</sup>O<sup>3</sup> --> 3CaO + 2AlCl<sup
 ## Optional videos
 
 ## Class videos
+
+[Cool chemical reaction 1](https://www.youtube.com/watch?v=C5tOEBmBAHg)
+[Ping pong balls](https://www.youtube.com/watch?v=mYsaLgvzkS0)
+[Salt tricks](https://www.youtube.com/watch?v=skHMzL95yCk)
