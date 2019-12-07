@@ -14,6 +14,9 @@ pages 227 - 255
 - **Experimental error** - The difference between a quantity's measured value and its true value.
 - Repeatability - The ability to repeat an experiment over and over again possibly by different people to reduce the impact of experimental error.
 - **percent yield** - percent yield = (actual yield / theoretical yield) * 100%
+- carbohydrate - this referes to the set of molecules that contain some ration of 1 carbon atom, 2 hydrogen atoms, and 1 oxygen atom.
+- **Empirical formula** - A formula that shows the simplest ratio of elements present in a compound.
+- **Molecular formula** - A formula that shows the actual number of each element in a compund.
 - 
 
 ## Examples
@@ -30,6 +33,20 @@ CC3. How much ammonia was actually made if the percent yield was 85.1% starting 
 - 35.68 mol NH<sup>3</sup> * (17.04 g/1 mol) = 608.0 g of NH<sup>3</sup>
 - Finally, we use the percent yield to determine how many grams of ammonia was actually produced. Remember the formula %yield = actual/theoretical (remember that % means * 100)
 - 85.1% = actual/608.0 g --> actual = 0.851 * 608.0 g --> **actual = 517 g**
+
+CC5. empirical formula is CH. If its molar mass is 78.12 g, what is its molecular formula?
+- First, we need to know the molar mass of CH which is 12.01 + 1.01 = 13.02 g/mol
+- Now let's divide the 2 molar masses to figure out the multiplier in the molecular formula. This is always molecular formular / empirical formula because we want a whole number not a fraction (big number on top).
+- multiplier = 78.12/13.02 = 6
+- Now, we just multiply each element in the empircal formula by the multiplier
+- molecular formula = **C<sup>6</sup>H<sup>6</sup>**
+
+CC6. What is the molecular formula for aluminum oxide?
+- Remember first to look at the naming convention used. The second word DOES NOT HAVE a prefix. That means this is an ionic compound. 
+- Now remember how to figure out ionic compounds. Use the column in the periodic table to convert each part into an ion then figure out how the ions fit together.
+- Al is in column 3A which means it can lose 3 electrons and become Al<sup>3+</sup>
+- O is in column 6A which means it can gain 2 electrons and become O<sup>2-</sup>
+- If you swap the numbers, we need 2 Al and 3 O which gives us **Al<sub>2</sub>O<sub>3</sub>**
 
 ## Optional videos
 
