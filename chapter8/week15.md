@@ -17,7 +17,7 @@ pages 227 - 255
 - carbohydrate - this referes to the set of molecules that contain some ration of 1 carbon atom, 2 hydrogen atoms, and 1 oxygen atom.
 - **Empirical formula** - A formula that shows the simplest ratio of elements present in a compound.
 - **Molecular formula** - A formula that shows the actual number of each element in a compund.
-- 
+- [video on empirical and molecular formulas](https://youtu.be/wnRaBWvhYKY)
 
 ## Examples
 
@@ -75,5 +75,8 @@ CC8. What's the emperical formula of a substand made from C and H if when burned
 - **emperical formula = CH<sub>2</sub>**
 
 ## Optional videos
+
+- [Figuring out the molecular formula from the empirical formula](https://youtu.be/J_MtVs0aBdU)
+- [This video explains how to do a combustion analysis on a compound that contains only carbon and hydrogen](https://youtu.be/BFalll3tSF4)
 
 ## Class videos
