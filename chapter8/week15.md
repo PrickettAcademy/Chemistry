@@ -61,6 +61,19 @@ CC7. 50.0 g of Ti is burned in excess oxygen and produces 83.3g of a single prod
 - NOTE: we can't know the molecular formula since we only know the ratio of the elements.
 - **empirical formula = TiO<sub>2</sub>**
 
+CC8. What's the emperical formula of a substand made from C and H if when burned with complete combustion produced 313.7 g of CO<sub>2</sub> and 128.4 g of H<sub>2</sub>O?
+- So, it may help to remember that complete combustion formulas look like X + O<sub>2</sub> --> CO<sub>2</sub> + H<sub>2</sub>O
+- We know that our unknown substance is made from C and H but in what ratio?
+- First, let's figure out how much C we started with. We have this number, sort of. It's the amount of carbon in the CO<sub>2</sub> that was produced.
+- Molar mass of CO<sub>2</sub> = 12.01 + 16 + 16 = 44.01 g/mol (and that's 1 mol of C and 2 mol of O)
+- 313.7 g * (1 mol/44.01 g) = 7.128 mol of CO<sub>2</sub> which means we have 7.128 mol of C
+- Now, what about the H, well likewise all of the H we started with was combined to form the H<sub>2</sub>O
+- Molar mass of H<sub>2</sub>O = 16.00 + 1.01 + 1.01 = 18.02 g/mol (and that's 2 mol of H and 1 mol of O)
+- 128.4 g * (1 mol/18.02 g) = 7.125 mol of H<sub>2</sub>O which means we have 2 * 7.125 mol of H = 14.25 mol of H
+- Finally, we can compute the ratio of H to C (big number on top)
+- ratio = 14.25 mol H / 7.128 mol C = 2 H for every C
+- **emperical formula = CH<sub>2</sub>**
+
 ## Optional videos
 
 ## Class videos
