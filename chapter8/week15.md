@@ -42,7 +42,9 @@ CC5. empirical formula is CH. If its molar mass is 78.12 g, what is its molecula
 - molecular formula = **C<sup>6</sup>H<sup>6</sup>**
 
 CC6. What is the molecular formula for aluminum oxide?
-- Remember first to look at the naming convention used. The second word DOES NOT HAVE a prefix. That means this is an ionic compound. 
+- Remember first to look at the naming convention used. The second word DOES NOT HAVE a prefix. That means this is an ionic compound.
+- _According to Wiles, "ionic compounds DO NOT HAVE a molecular formula"_
+- However, you should be able to figure out the **chemical formula** - here is a reminder on how to do that...
 - Now remember how to figure out ionic compounds. Use the column in the periodic table to convert each part into an ion then figure out how the ions fit together.
 - Al is in column 3A which means it can lose 3 electrons and become Al<sup>3+</sup>
 - O is in column 6A which means it can gain 2 electrons and become O<sup>2-</sup>
