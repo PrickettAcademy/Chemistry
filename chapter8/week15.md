@@ -50,6 +50,17 @@ CC6. What is the molecular formula for aluminum oxide?
 - O is in column 6A which means it can gain 2 electrons and become O<sup>2-</sup>
 - If you swap the numbers, we need 2 Al and 3 O which gives us **Al<sub>2</sub>O<sub>3</sub>**
 
+CC7. 50.0 g of Ti is burned in excess oxygen and produces 83.3g of a single product. What is the empirical formula of the product.
+- We know that when something burns it combines with oxygen so the product is a combination of Ti and O. 
+- We also know that we have 50.0 g of Ti and so the rest must be from O. So there is 33.3 g of oxygen.
+- To figure out the emiprical formular we need to know the number of moles not grams. So use the periodic table to convert grams to moles.
+- Moles of Ti = 50.0 g * (1 mol/47.87 g) = 1.04 mol of Ti
+- Moles of O = 33.3 g * (1 mol/16.00 g) = 2.08 mol of O
+- To get a whole number ratio of O and Ti we put the big number on top and divide
+- ratio = 2.08 mol O /1.04 mol Ti = 2 mol O for every 1 mol of Ti. So the ratio is 2 to 1
+- NOTE: we can't know the molecular formula since we only know the ratio of the elements.
+- **empirical formula = TiO<sub>2</sub>**
+
 ## Optional videos
 
 ## Class videos
