@@ -80,3 +80,7 @@ CC8. What's the emperical formula of a substand made from C and H if when burned
 - [This video explains how to do a combustion analysis on a compound that contains only carbon and hydrogen](https://youtu.be/BFalll3tSF4)
 
 ## Class videos
+
+- [stoichiometry song](https://www.youtube.com/watch?v=YzN_x0lPK9E)
+- [empirical formula song](https://www.youtube.com/watch?v=JBCYtQX2ypo)
+- [Mr. Bean](https://www.youtube.com/watch?v=6aK2CKrdjbE)
