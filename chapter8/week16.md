@@ -14,7 +14,8 @@ pages 227 - 255
 ## Notes
 
 - **Percent composition** - if you know the percentage of the masses of each element in a molecule you can figure out the empirical formular. 
-- You can figure out the amount of oxygen that might have been in a molecule at the start of combustion by figuring out the amount of carbon and hydrogen first. 
+- [How to determine percent composition](https://youtu.be/TvgUbv0c5gE)
+- You can figure out the amount of oxygen that might have been in a molecule at the start of combustion by figuring out the amount of carbon and hydrogen first. [Video explanation](https://youtu.be/TvgUbv0c5gE)
 - **Polyatomic ions** - An ion composed of 2 or more atoms that are covalently bonded to one another.
 - We need to memorize the following polyatomic ions and their charges and names
   - Ammonium - NH<sub>4</sub><sup>+</sup>
@@ -61,5 +62,7 @@ CC14. What is the name of FePO<sup>4</sup>? (needs a roman numeral)
 - **Iron (III) Phosphate**
 
 ## Optional videos
+
+- [This video explains how to figure out the formula of an ionic compound that has polyatomic ions.](https://youtu.be/p9iQ5Qn42DM)
 
 ## Class videos
