@@ -23,6 +23,10 @@ pages 257 - 287
 - Saturated solution - a solution in which the maximum amount of solute is dissolved.
 - the solubility of gas solutes *increases* with increasing pressure.
 - precipitate - a solid that emerges from a liquid solution.
+- concentration - the amount of substance in a defined volume.
+- the behavior of a chemical often depends on concentration.
+- molarity - moles of solute over liters of solution. This is usually moles/liter which is abbreviated as "M" (uppercase).
+- 
 - 
 
 
@@ -49,6 +53,17 @@ CC4. Calcium Phosphate is insoluable in water. If a solution of potassium phosph
 - That should leave potassium and chlorine to combine in the reactants with the formla KCl which I assume dissolves in water.
 - So, the unbalanced equation is K<sub>3</sub>PO<sub>4</sub> (aq) + CaCl<sub>2</sub> (aq) --> Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> (s) + KCl (aq)
 - Balanced: 2K<sub>3</sub>PO<sub>4</sub> (aq) + 3CaCl<sub>2</sub> (aq) --> Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> (s) + 6KCl (aq)
+
+CC5. what's the molarity of 15.67 grams of ammonium carbonate in 200.0 ml of solution?
+- First remember the formula M = moles/liter 
+- So, we need the number of moles of ammonium carbonate. The formula for this is (NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub>. These are both ions that we should know ammonium has +1 charge and carbonate has a -2 charge.
+- Now we can figure out the molar mass of the molecule: (14.01 * 2) + (1.01 * 8) + 12.01 + (16 * 3) = 96.11 g/mol
+- That gives us a way to get the number of moles from the grams given: 15.67g * (1 mol / 96.11 g) = 0.1630 moles
+- Don't forget to convert the mililiters into liters: 1 liter = 1000 ml
+- 200.0 ml * (1 liter / 1000 ml) = 0.2000 liters
+- So the molarity is 0.1630 moles / 0.2000 liters = 0.8150 mol/liter or **0.8150 M**
+
+CC6. 
 
 ## Optional Videos
 
