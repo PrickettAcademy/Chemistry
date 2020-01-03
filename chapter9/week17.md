@@ -63,7 +63,10 @@ CC5. what's the molarity of 15.67 grams of ammonium carbonate in 200.0 ml of sol
 - 200.0 ml * (1 liter / 1000 ml) = 0.2000 liters
 - So the molarity is 0.1630 moles / 0.2000 liters = 0.8150 mol/liter or **0.8150 M**
 
-CC6. 
+CC6. If we use 34.2 mL of the CC5 solution, how many moles of ammonium carbonate are used?
+- This is actually easy because we know the molarity of the solution: 0.8150 mol/liter
+- So, lets first convert 34.2 mL into L: 34.2 mL * (1 L / 1000 mL) = 0.0342 L
+- Now we just multiply: 0.0342 L * 0.8150 mol/L = **0.0279 moles**
 
 ## Optional Videos
 
