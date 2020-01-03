@@ -42,6 +42,13 @@ CC2. starting with a saturated solution of ammonia (gas solute)
 CC3. how to make a solution of sodium bromide (solid solute) saturated without adding more sodium bromide
 - To ensure that it is saturated, we need to decrease the solubility until some of the soduim bromide leaves the solution. Since it's a solid solute, we just need to decrease the temperature of the solution until some leaves the solution. At that point the solution is saturated.
 
+CC4. Calcium Phosphate is insoluable in water. If a solution of potassium phosphate is mixed with a solution of calcium chloride, what is the chemical equation?
+- Calcium is Ca in column 2A whose ion has a +2 charge and phosphate is PO<sub>4</sub><sup>3-</sup>. So the chemical formula for calcium phosphate is Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>.
+- Potassium is K in 1A whose ion has a +1 charge. So, potassium phosphate has a formula of K<sub>3</sub>PO<sub>4</sub>.
+- The formula for calcium chloride is CaCl<sub>2</sub> because Cl is in column 7A whose ion has a -1 charge.
+- That should leave potassium and chlorine to combine in the reactants with the formla KCl which I assume dissolves in water.
+- So, the unbalanced equation is K<sub>3</sub>PO<sub>4</sub> (aq) + CaCl<sub>2</sub> (aq) --> Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> (s) + KCl (aq)
+- Balanced: 2K<sub>3</sub>PO<sub>4</sub> (aq) + 3CaCl<sub>2</sub> (aq) --> Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub> (s) + 6KCl (aq)
 
 ## Optional Videos
 
