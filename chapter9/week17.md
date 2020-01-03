@@ -14,7 +14,7 @@ pages 257 - 287
 - Solution - a homogeneous mixture of 2 or more substances. These can be solids, liquids, or gases.
 - Solute - the substance or substances dissolved into a solution
 - Solvent - the substance into which solutes are dissolved.
-- When ionic compounds dissolve, they split up into their individual ions. If dissovled in water this can make the water conduct electricity.
+- When ionic compounds dissolve, they split up into their individual ions. If dissovled in water this can make the water conduct electricity. [quick video that animates this concept](https://youtu.be/EBfGcTAJF4o)
 - When polar covalent compounds dissolve, they split up into their individual molecules. This does not help water conduct electricity.
 - Solubility - the amount of solute that can be dissolved in a specific amount of solution. This is expressed as grams of solute in 100 grams of solvent.
 - solubility is affected by temperature. You can dissolve more sugar in hot water than in the same amount of cold water.
@@ -26,10 +26,7 @@ pages 257 - 287
 - concentration - the amount of substance in a defined volume.
 - the behavior of a chemical often depends on concentration.
 - molarity - moles of solute over liters of solution. This is usually moles/liter which is abbreviated as "M" (uppercase).
-- 
-- 
-
-
+- [Video on calculating molarity](https://youtu.be/SXf9rDnVFao)
 
 ## Examples
 
@@ -70,4 +67,9 @@ CC6. If we use 34.2 mL of the CC5 solution, how many moles of ammonium carbonate
 
 ## Optional Videos
 
+- [This video gives you instruction on writing precipitation reactions. You don’t have to worry about the rules he talks about. You will always be told which compound is not soluble in water.](https://youtu.be/QuwoLZYG91s)
+- 
+
 ## Class Videos
+- [solution song](https://youtu.be/3G472AA3SEs)
+- [precipitates](https://youtu.be/BGUfC3UUBkI)
