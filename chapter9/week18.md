@@ -16,6 +16,7 @@ pages 257 - 287
 - Molarity is commonly used in stoichiometry to mix the right amount of solutions together based on a chemical equation.
 - Molality is another measurement for concentration, but it is very different from Molarity.
 - Formula for Molality is moles of solute / kilograms of solvent
+- [short video on difference between molarity and molality](https://youtu.be/96oNrVnTk50)
 - dissolving a solute in a solvent lowers its freezing point and raises its boiling point.
 - freezing point depression is given by this formula: 	&#916;T = -iKm where 	&#916;T is the change in freezing point, i is the number of particles of solute in the solution, K is a constant based on solvent and m is the molality of the solution.
 - boiling point elevation is given by a similar formula: &#916;T = iKm where 	&#916;T is the change in boiling point, i is the number of particles of solute in the solution, K is a **different** constant based on solvent and m is the molality of the solution.
@@ -55,6 +56,9 @@ CC11. What is the freezing point of 500.0 g of acetic acid with 50.0 g of glucos
 
 ## Optional Videos
 
+- [freezing point depressino and boiling point elevation problem examples](https://youtu.be/FTa-8wIXxS0)
 
 
 ## Class Videos
+
+- [chemical ice cream](https://youtu.be/OslIVjv0MiY)
