@@ -23,6 +23,9 @@ pages 257 - 287
 
 ## Examples
 
+[Extra problems](https://bereanbuilders.com/olc/ddchem/ch9_exprob.pdf)
+[Solutions to extra problems](https://bereanbuilders.com/olc/ddchem/ch9_exproba.pdf)
+
 CC7. Given MgCl<sub>2</sub> + (NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub> --> MgCO<sub>3</sub> + 2NH<sub>4</sub>Cl. What volume of 1.5 M solution of magnesium chloride do you need to make 450.0 grams of magnesium carbonate?
 - First, how many moles of MgCO<sub>3</sub> is in 450.0 g? 
 - Molar mass of MgCO<sub>3</sub> is 24.31 + 12.01 + 16 + 16 + 16 = 84.32 g/mol
