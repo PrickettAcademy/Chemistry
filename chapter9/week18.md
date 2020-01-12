@@ -23,7 +23,13 @@ pages 257 - 287
 ## Examples
 
 CC7. Given MgCl<sub>2</sub> + (NH<sub>4</sub>)<sub>2</sub>CO<sub>3</sub> --> MgCO<sub>3</sub> + 2NH<sub>4</sub>Cl. What volume of 1.5 M solution of magnesium chloride do you need to make 450.0 grams of magnesium carbonate?
-- First you need to remember your polyatomic ions. 
+- First, how many moles of MgCO<sub>3</sub> is in 450.0 g? 
+- Molar mass of MgCO<sub>3</sub> is 24.31 + 12.01 + 16 + 16 + 16 = 84.32 g/mol
+- 450.0 g MgCO<sub>3</sub> * 1 mol / 84.32 g = 5.337 moles MgCO<sub>3</sub>
+- The relationship of MgCO<sub>3</sub> to MgCl<sub>2</sub> is 1 mole to 1 mole according to the equation. So, we need 5.337 moles of MgCl<sub>2</sub> as well.
+- Since MgCl<sub>2</sub> is in a 1.5 M solution we need to convert the number of moles to liters.
+- Remember that M = moles/liter. So, the solution is 1.5 moles of MgCl<sub>2</sub> / 1 liter of solution
+- So, 5.337 mol MgCl<sub>2</sub> * 1 liter / 1.5 mol MgCl<sub>2</sub> = **3.6 liters of MgCl<sub>2</sub>**
 
 ## Optional Videos
 
