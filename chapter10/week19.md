@@ -20,8 +20,12 @@ pages 289 - 324
 - Charles Law - at a constant pressure, temperature and volume are directly proportional to one another. (V<sub>1</sub> / T<sub>1</sub>) = (V<sub>2</sub> / T<sub>2</sub>)
 - The Kelvin temperature scale is the same as Celcius if you subtract 273.15 degrees from the measurement. K = <sup>o</sup>C + 273.15
 - We always use the Kelvin scale for temperature in these gas equations!
+- [Video converting from Celcius to Kelvin](https://youtu.be/MbkDDWsGjFk)
 - The Combined Gas Law - (P<sub>1</sub> * V<sub>1</sub>) / T<sub>1</sub> = (P<sub>2</sub> * V<sub>2</sub>) / T<sub>2</sub>
-- 
+- [Video using combined gas law to solve problems](https://youtu.be/bftkRnTcFj8)
+- A gas is at STP if its pressure is 1 atm and its temperature is 0 <sup>o</sup>C
+- Ideal gas law - PV = nRT where P is pressure, V is volume, n is the number of moles of the gas, R is the ideal gas constant, and T is temperature. R has more than one representation, but for this class we will use R = 0.0821 (L * atm) / (mole * K). The units match what you should use for the other elements of the formula.
+- [Video using ideal gas law to solve problems](https://youtu.be/TqLlfHBFY08)
 
 ## Examples
 
@@ -48,10 +52,25 @@ CC4. volume1 = 3.91 L, pressure1 = 1.09 atm, temp1 = 28.4 <sup>o</sup>C, pressur
 - Solve for T<sub>2</sub>. This may seem hard because T<sub>2</sub> is on the bottom of a fraction, but you can simply cross multiply to move the T's on top. If we did this first the formula would look like this: (P<sub>1</sub> * V<sub>1</sub>) * T<sub>2</sub> = (P<sub>2</sub> * V<sub>2</sub>) * T<sub>1</sub>. Notice how the T's swapped sides and moved to the top. This is called cross multiplying.
 - So, 1.09 atm * 3.91 L * T<sub>2</sub> = 3.70 atm * 1.09 L * 301.6 K
 - T<sub>2</sub> = (3.70 atm * 1.09 L * 301.6 K) / (1.09 atm * 3.91 L) = 285 K
-- But they asked for <sup>o</sup>C. 285K - 273.15 = 12 <sup>o</sup>C
+- But they asked for <sup>o</sup>C. 285K - 273.15 = **12 <sup>o</sup>C**
 
+CC6. 18.45 moles at STP; what's the volume?
+- STP is 1 atm and 0 <sup>o</sup>C or 273.15 K
+- The formula is PV = nRT
+- Fill in what we know: 1 atm * V = 18.45 mol * R * 273.15 K
+- remember R = 0.0821 (L * atm) / (mole * K)
+- So, 1 atm * V = 18.45 mol * 0.0821 (L * atm) / (mol * K) * 273.15 K
+- Solve for V = 18.45 * 0.0821 L * 273.15 = **414 L**
 
+CC7. 12.5 moles, pressure = 735.6 torr, volume = 0.45 kL, what is the temperature?
+- First let's convert these to the right units: 
+- pressure = 735.6 torr * 1 atm / 760 torr = 0.9679 atm; volume = 450 L
+- PV = nRT
+- 0.9679 atm * 450 L = 12.5 mol * 0.0821 (L * atm) / (mol * K) * T
+- solve for T = (0.9679 atm * 450 L) / (12.5 mol * 0.0821 (L * atm) / (mol * K)) = **420 K or 147 <sup>o</sup>C**
 
 ## Optional Videos
+
+- 
 
 ## Class Videos
