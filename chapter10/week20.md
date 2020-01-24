@@ -17,7 +17,8 @@ pages 289 - 324
 - When all substances of interest are gases, as long as pressure and temperature remain the same, the chemical equation gives you the relationship between the volumes of those gases.
 - The total pressure of a mixture of gases (that don't chemically interact) is the sum of the pressure of each individual gas.
 - mole fraction - X = moles of component A / total moles in the mixture
-- X also equals pressure of gas A / total pressure of the mixture
+- X also equals pressure of gas A / total pressure of the mixture.
+- Vapor pressure is pressure exerted by water in a gas mixture. You can look up these values in the table in the book.
 
 ## Examples
 
