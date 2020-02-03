@@ -22,9 +22,11 @@ pages 325 - 355
 - Ionic compounds that contain the hydroxide ion can act as bases.
 - Ammonia is a covalent base.
 - If a covalent compound starts with an H, it can usually act like an acid.
+- [This video shows you how to determine the acid and base in an acid/base reaction.](https://youtu.be/kR7mWaF0VXg)
 - Polyprotic acid - an acid that can donate two or more H<sup>+</sup> ions.
 - An acid reacts with an ionic base to make water and a salt.
 - pH scale (potential hydrogen scale) - measures the level of an acid or base. The scale is from 0 to 14. Everything that measures 0-6.9 is an acid and everything from 7.1 to 14 is a base. Things that are 7.0 are neutral - not an acid or a base. The closer an acid is to 0, the stronger and more caustic that acid is. The closer a base is to 14 the stronger and more caustic that base is.
+- [This video gives a good overview of the pH scale.](https://youtu.be/akP_NORs9N0)
 
 ## Examples
 
@@ -71,3 +73,5 @@ CC8. pH's of 1, 3, 7, 9, 14
 ## Optional Videos
 
 ## Class Videos
+
+- [Here’s a nice demonstration of an acid and base reacting with the same chemical – aluminum.](https://youtu.be/WnPrtYUKke8)
