@@ -51,7 +51,7 @@ CC5. Acid or base?
 CC6. chemical equation for HClO<sub>3</sub> + NH<sub>3</sub>?
 - HClO<sub>3</sub> is an ionic acid and will give up its H ion
 - NH<sub>3</sub> is a covalent base and will happily gain an H ion
-- HClO<sub>3</sub> + NH<sub>3</sub> --> ClO<sub>3</sub> + NH<sub>4</sub>
+- HClO<sub>3</sub> + NH<sub>3</sub> --> ClO<sub>3</sub><sup>-</sup> + NH<sub>4</sub><sup>+</sup>
 
 CC7. chemical equation for H<sub>2</sub>CO<sub>3</sub> + Al(OH)<sub>3</sub>?
 - Both the acid (H<sub>2</sub>CO<sub>3</sub>) and the base (Al(OH)<sub>3</sub>) are ionic which means they will form water and a salt.
@@ -61,12 +61,12 @@ CC7. chemical equation for H<sub>2</sub>CO<sub>3</sub> + Al(OH)<sub>3</sub>?
 - 3H<sub>2</sub>CO<sub>3</sub> + 2Al(OH)<sub>3</sub> --> 6H<sub>2</sub>O + Al<sub>2</sub>(CO<sub>3</sub>)<sub>3</sub>
 
 CC8. pH's of 1, 3, 7, 9, 14
-a. most acidic? 1
-b. neutral? 7
-c. most basic? 14
-d. baking soda solution? 9 - baking sode is a base but not a dangerous one
-e. turns anthocyanins pink? 3 - because 2-3 is the range that turns those pink
-f. which could be distilled water? 7
+- a. most acidic? 1
+- b. neutral? 7
+- c. most basic? 14
+- d. baking soda solution? 9 - baking sode is a base but not a dangerous one
+- e. turns anthocyanins pink? 3 - because 2-3 is the range that turns those pink
+- f. which could be distilled water? 7
 
 ## Optional Videos
 
