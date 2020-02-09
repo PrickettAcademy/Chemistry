@@ -15,10 +15,15 @@ pages 325 - 355
 
 - Neutralize - When you add just the right amount of an acid to just the right amount of a base, the resulting solution is neither acidic or basic (i.e. the pH of the solution is 7).
 - REMEMBER Molarity: M = moles of solute / Liters of solution. You will need this in this chapter
+- [This video shows you how to determine the reaction between an acid and a base, and then it shows you how to do stoichiometry on such a reaqction.](https://youtu.be/0cwh40YAtcg)
 - acid/base titration - the process by which an acid of known concentration is added to a base of unknown concentration (or vice-versa) until a neutral pH is reached so as to determine the unknown concentration.
 - dilute - the addition of water to a concentrated solution in order to weaken the solution. The number of moles of acid or base remains the same while the volume of the solution is increased.
 
 ## Examples
+
+[Extra problems](https://bereanbuilders.com/olc/ddchem/ch11_exprob.pdf)
+
+[Solutions to extra problems](https://bereanbuilders.com/olc/ddchem/ch11_exproba.pdf)
 
 CC9. how many mL of a 3.41 M solution of H<sub>2</sub>SO<sub>4</sub> is needed to neutralize 750.0 mL of a 5.00 M solution of KOH?
 - First, you need to notice that M is for molarity. M = moles of solute / L of solution. We can use this to get the number of moles of each solution.
@@ -52,4 +57,9 @@ CC11. how much water should be added to a 9.12 M solution of MgCl<sub>2</sub> to
 
 ## Optional Videos
 
+- [This video shows you how to solve for the amount of acid or base needed in a neutralization experiment.](https://youtu.be/SBHGaY3kA4U)
+- [If you don’t like the way I explained diluting a solution, this video gives you a simple equation that will allow you to solve the problems.](https://youtu.be/v6dnEp58mVk)
+
 ## Class Videos
+
+
