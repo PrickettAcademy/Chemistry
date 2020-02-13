@@ -62,4 +62,6 @@ CC11. how much water should be added to a 9.12 M solution of MgCl<sub>2</sub> to
 
 ## Class Videos
 
+[acid/base song](https://www.youtube.com/watch?v=IAJsZWhj6GI&list=RDQMulQbGGi2qLo&start_radio=1)
+[acid/base rocket](https://www.youtube.com/watch?v=zi0fDC4fuAg)
 
