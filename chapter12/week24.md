@@ -23,7 +23,7 @@ pages 357 - 386
 
 CC6. Draw galvanic cells for the following reactions
 - 3Fe (s) + 2Co<sup>3+</sup> (aq) --> 3Fe<sup>2+</sup> (aq) + 2Co (s)
-- ![Fe Galvanic Cell](FeGalvanicCell.jpg)
+- ![Fe Galvanic Cell](FeGalvanicCell1.jpg)
 - I<sub>2</sub> (aq) + 2Cr<sup>2+</sup> --> 2I<sup>-</sup> (aq) + 2Cr<sup>3+</sup> (aq)
 - ![I2 Galvanic Cell](I2GalvanicCell.jpg)
 
