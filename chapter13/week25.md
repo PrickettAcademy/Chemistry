@@ -70,4 +70,10 @@ CC7. 20.0 g of unknown metal at 110.0 <sup>o</sup>C is put in a calorimeter that
 
 ## Optional Videos
 
+- [difference between heat and temperature](https://youtu.be/uk76zwQHdtU)
+- [This video explains the way calorimetry works](https://youtu.be/EAgbknIDKNo)
+- [This video explains how to do a calorimetry calculation when you ignore the calorimeter. He doesn’t mention the calorimeter, because he is really ignoring it!](https://youtu.be/qASX1L4xalw)
+
 ## Class Videos
+- [cold or hot](https://youtu.be/vqDbMEdLiCs)
+- [thermochemistry song](https://youtu.be/8C4mJlCHyKk)
