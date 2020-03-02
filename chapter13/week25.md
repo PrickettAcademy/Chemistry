@@ -58,7 +58,7 @@ CC5. 1.5 kg object cools down from 22.5 <sup>o</sup>C to 8.1 <sup>o</sup>C losin
 CC6. What's the mass of nickel if T goes from 23.4 <sup>o</sup>C to 44.3 <sup>o</sup>C when 987 J are added?
 - we are given c = 0.440 J/(g <sup>o</sup>C)
 - So, 987 J = m * 0.440 J(g <sup>o</sup>C) * 20.9 <sup>o</sup>C
-- m = 987 J / (0.440 J(g <sup>o</sup>C) * 20.9 <sup>o</sup>C) = **107.33 g of nickel**
+- m = 987 J / (0.440 J(g <sup>o</sup>C) * 20.9 <sup>o</sup>C) = **107 g of nickel**
 
 CC7. 20.0 g of unknown metal at 110.0 <sup>o</sup>C is put in a calorimeter that has 115.0 g of water at 24.1 <sup>o</sup>C. The experiment ends when the water is at 26.3 <sup>o</sup>C. Ignoring the effects of the calorimeter what is the specific heat?
 - To calculate the specific heat I need 3 things: grams of metal which was given; change in temperature which is easy to calculate; and the energy gained or lost. This last part is the hardest because we have to calculate the energy gained or lost from by the water first.
