@@ -13,9 +13,37 @@ pages 387 - 416
 
 ## Notes
 
--
+- heat capacity is different than specific heat capacity
+- heat capacity is the heat that an entire object absorbs. No mass is used in the calculation. q = C * &#916;T
+- latent heat - the amount of heat released or absorbed by a substance during a phase change.  There are 2 latent heats for every substance. One for melting/freezing and one for vaporizing/condensing. q = m * L
+- exothermic reaction - a chemical reaction that releaes energy.
+- endothermic reaction - a chemical reaction that absorbs energy.
+- Kinetic energy - energy that is in motion
+- Potential energy - energy that is stored
 
 ## Examples
+
+CC9. 300.0 g of some metal is heated to 136.3 <sup>o</sup>C and put in a calorimeter of 1200.0 g of water that started at 25.0 <sup>o</sup>C. The final temperature is 27.3 <sup>o</sup>C  and the heat capacity of the calorimeter is 1100 J/<sup>o</sup>C. What is the specific heat of the metal?
+- Remember the formulas: 
+- heat of the object: -q<sub>object</sub> = q<sub>liquid</sub> + q<sub>calorimeter</sub>
+- heat of liquid: q<sub>liquid</sub> = m * c * &#916;T
+- heat of calorimeter: q<sub>calorimeter</sub> = C * &#916;T
+- Let's do these in reverse
+- q<sub>calorimeter</sub> = C * &#916;T
+  - C = 1100 J/<sup>o</sup>C
+  - &#916;T = 27.3 <sup>o</sup>C - 25.0 <sup>o</sup>C = 2.3 <sup>o</sup>C
+  - q = 1100 J/<sup>o</sup>C * 2.3 <sup>o</sup>C = 2500 J
+- q<sub>liquid</sub> = m * c * &#916;T
+  - m = 1200.0 g
+  - c = 4.184 J/(g * <sup>o</sup>C)
+  - &#916;T = 27.3 <sup>o</sup>C - 25.0 <sup>o</sup>C = 2.3 <sup>o</sup>C
+  - q = 1200.0 g * 4.184 J/(g * <sup>o</sup>C) * 2.3 <sup>o</sup>C = 12000 J
+- -q<sub>object</sub> = q<sub>liquid</sub> + q<sub>calorimeter</sub> = 2500 J + 12000 J = -14500 J
+- Now we can calculate the specific heat of the metal
+  - q = m * c * &#916;T
+  - &#916;T = 27.3 <sup>o</sup>C - 136.3 <sup>o</sup>C = -109.0 <sup>o</sup>C
+  - -14500 J = 300.0 g * c * -109.0 <sup>o</sup>C 
+  - c = -14500 J / (300.0 g * -109.0 <sup>o</sup>C) = **0.443 J / (g * <sup>o</sup>C)**
 
 ## Optional Videos
 
