@@ -45,6 +45,16 @@ CC9. 300.0 g of some metal is heated to 136.3 <sup>o</sup>C and put in a calorim
   - -14500 J = 300.0 g * c * -109.0 <sup>o</sup>C 
   - c = -14500 J / (300.0 g * -109.0 <sup>o</sup>C) = **0.443 J / (g * <sup>o</sup>C)**
 
+CC10. 300.0 g of ice at 0.0 <sup>o</sup>C is converted to water vapor at 100.0 <sup>o</sup>C. How much heat is absorbed? (L<sub>f</sub> = 334 J/g, L<sub>v</sub> = 2260 J/g)
+- The total heat is the combination of the heat to get all the ice changed to liquid plus the heat to get the liquid from 0 <sup>o</sup>C to 100 <sup>o</sup>C plus the heat to get all the liquid to vaporize into water vapor.
+- q<sub>total</sub> = q<sub>ice</sub> + q<sub>water</sub> + q<sub>vapor</sub>
+- q<sub>ice</sub> = m * L<sub>f</sub> = 300.0 g * 334 J/g = 100000 J = 1.00 * 10<sup>5</sup> J
+- q<sub>water</sub> = m * c * &#916;T = 300.0 g * 4.184 J / (g * <sup>o</sup>C) * 100.0 <sup>o</sup>C = 125500 J
+- q<sub>vapor</sub> = m * L<sub>v</sub> = 300.0 g * 2260 J/g = 678000 J
+- total heat = 100000 J + 125500 J + 678000 J = **904,000 J**
+
 ## Optional Videos
+
+- [This video explains how to calculate the energy required to make a phase change.](https://youtu.be/_wO3GcLatNc)
 
 ## Class Videos
