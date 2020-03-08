@@ -58,3 +58,5 @@ CC10. 300.0 g of ice at 0.0 <sup>o</sup>C is converted to water vapor at 100.0 <
 - [This video explains how to calculate the energy required to make a phase change.](https://youtu.be/_wO3GcLatNc)
 
 ## Class Videos
+
+- [song](https://youtu.be/IEVmgk50ueg)
