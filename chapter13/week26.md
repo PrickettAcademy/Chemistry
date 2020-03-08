@@ -23,6 +23,10 @@ pages 387 - 416
 
 ## Examples
 
+[Extra problems - in class](https://bereanbuilders.com/olc/ddchem/ch13_exprob.pdf)
+
+[Solutions to extra problems](https://bereanbuilders.com/olc/ddchem/ch13_exproba.pdf)
+
 CC9. 300.0 g of some metal is heated to 136.3 <sup>o</sup>C and put in a calorimeter of 1200.0 g of water that started at 25.0 <sup>o</sup>C. The final temperature is 27.3 <sup>o</sup>C  and the heat capacity of the calorimeter is 1100 J/<sup>o</sup>C. What is the specific heat of the metal?
 - Remember the formulas: 
 - heat of the object: -q<sub>object</sub> = q<sub>liquid</sub> + q<sub>calorimeter</sub>
