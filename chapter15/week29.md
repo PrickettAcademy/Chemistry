@@ -43,7 +43,7 @@ CC3. 2 reactants; overall order = 1; order with respect to the first reactant is
 - what is the order of the second reactant? x + y = 1; x = 1; therefore **y = 0**
 - what are the units on the rate constant? the overall order is 1 so there is just one M. so **1/(M * s)**
 
-CC4. Reaction: NO (g) + O<sub>3</sub> (g) --> NO<sub>2</sub> (g) + O<sub>2</sub> (g)
+CC4. Reaction: NO (g) + O<sub>3</sub> (g) --> NO<sub>2</sub> (g) + O<sub>2</sub> (g); What's the rate equation?
 | Trial | [NO] | [O<sub>3</sub>] | instaneous rate |
 |---|---|---|---|
 | 1 | 0.0010 M | 0.0010 M | 22.0 M/s |
@@ -55,7 +55,7 @@ CC4. Reaction: NO (g) + O<sub>3</sub> (g) --> NO<sub>2</sub> (g) + O<sub>2</sub>
   - equation 1: 22.0 M/s = k(0.0010 M)<sup>x</sup>(0.0010 M)<sup>y</sup>
   - equation 2: 44.0 M/s = k(0.0010 M)<sup>x</sup>(0.0020 M)<sup>y</sup>
   - equation 3: 44.0 M/s = k(0.0020 M)<sup>x</sup>(0.0010 M)<sup>y</sup>
-- If you remember in Algebra 2, if you have 3 equations and 3 variables, you can solve for each variable usually be combining the equations. Let's start with equation 2. As long as I add/subtract/multiply or divide both sides by the same amount, the equation is still valid. Equation 1 tells us that 22.0 M/s is the same amount as k(0.0010 M)<sup>x</sup>(0.0010 M)<sup>y</sup> (they just look really different). Since those are the same amounts, I can divide boths sides of equation 2 with these amounts.
+- If you remember in Algebra 2, when you have 3 equations and 3 variables, you can solve for each variable usually by combining the equations. Let's start with equation 2. As long as I add/subtract/multiply or divide both sides by the same amount, the equation is still valid. Equation 1 tells us that 22.0 M/s is the same amount as k(0.0010 M)<sup>x</sup>(0.0010 M)<sup>y</sup> (they just look really different). Since those are the same amounts, I can divide both sides of equation 2 with these amounts.
 - So, (44.0 M/s) / (22.0 M/s) = (k(0.0010 M)<sup>x</sup>(0.0020 M)<sup>y</sup>) / (k(0.0010 M)<sup>x</sup>(0.0010 M)<sup>y</sup>)
 - Hopefully, that makes sense. Now we can cancel some things out on both sides and really simplify this new equation.
 - So, 2.00 = (0.0020 M)<sup>y</sup> / (0.0010 M)<sup>y</sup>
@@ -63,7 +63,14 @@ CC4. Reaction: NO (g) + O<sub>3</sub> (g) --> NO<sub>2</sub> (g) + O<sub>2</sub>
 - So, 2.00 = (2.0)<sup>y</sup> ... so y must be 1
 - You can do the same thing for x by dividing both sides of equation 3 with equation 1 like we did here, but you will get the same answer. 
 - **x = 1 and y = 1**
+- But we still need to know k. But that's pretty easy now that we have x and y. We just need to solve for k. Let's use equation 1.
+- 22.0 M/s = k(0.0010 M)<sup>1</sup>(0.0010 M)<sup>1</sup>
+- 22.0 M/s = k(0.0010 M)(0.0010 M)
+- 22.0 M/s = k(0.0000010 M<sup>2</sup>)
+- k = (22.0 M/s) / (0.0000010 M<sup>2</sup>) = (22.0/0.0000010) M/s = **22,000,000 M/s**
+- So, rate = (2.2 * 10<sub>7</sub> M/s)[NO]<sup>1</sup>[O<sub>3</sub>]<sup>1</sup>
 
+CC5. 
 
 ## Optional Videos
 
