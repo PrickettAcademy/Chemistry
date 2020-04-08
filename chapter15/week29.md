@@ -98,4 +98,11 @@ CC5. Reaction: 2NO (g) + O<sub>2</sub> (g) --> 2NO<sub>2</sub> (g); What's the r
 
 ## Optional Videos
 
+- [This video explains collision theory and how to change reaction rates by using a dating analogy.](https://youtu.be/OttRV5ykP7A)
+- [This video explains the definition of reaction rate, it discusses collision theory, and it explains the Rate Equation.](https://youtu.be/1jF6yOzZbws)
+- [This video explains how to determine the rate law from three experiments.](https://www.youtube.com/watch?v=liGCU9gaLcM)
+- 
+
 ## Class Videos
+
+- [Kinetic Theory song](https://www.youtube.com/watch?v=XqS0yi7waOo)
