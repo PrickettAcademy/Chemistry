@@ -70,7 +70,31 @@ CC4. Reaction: NO (g) + O<sub>3</sub> (g) --> NO<sub>2</sub> (g) + O<sub>2</sub>
 - k = (22.0 M/s) / (0.0000010 M<sup>2</sup>) = (22.0/0.0000010) M/s = **22,000,000 M/s**
 - So, rate = (2.2 * 10<sub>7</sub> M/s)[NO]<sup>1</sup>[O<sub>3</sub>]<sup>1</sup>
 
-CC5. 
+CC5. Reaction: 2NO (g) + O<sub>2</sub> (g) --> 2NO<sub>2</sub> (g); What's the rate equation?
+| Trial | [NO] | [O<sub>2</sub>] | instaneous rate |
+|---|---|---|---|
+| 1 | 0.00500 M | 0.00100 M | 0.000178 M/s |
+| 2 | 0.0100 M  | 0.00100 M | 0.000712 M/s |
+| 3 | 0.0100 M  | 0.00200 M | 0.001424 M/s |
+- let's create 3 different equations from our table:
+  - equation 1: 0.000178 M/s = k(0.00500 M)<sup>x</sup>(0.00100 M)<sup>y</sup>
+  - equation 2: 0.000712 M/s = k(0.0100 M)<sup>x</sup>(0.00100 M)<sup>y</sup>
+  - equation 3: 0.001424 M/s = k(0.0100 M)<sup>x</sup>(0.00200 M)<sup>y</sup>
+- I am going to start with equation 2 again and divide both sides by equation 1
+- (0.000712 M/s) / (0.000178 M/s) = (k(0.0100 M)<sup>x</sup>(0.00100 M)<sup>y</sup>) / (k(0.00500 M)<sup>x</sup>(0.00100 M)<sup>y</sup>)
+- 4.00 = (0.0100 M)<sup>x</sup> / (0.00500 M)<sup>x</sup>
+- 4.00 = (2.00)<sup>x</sup>
+- x = 2
+- Now to get y I am going to start with equation 3 and divide both sides by equation 2. I am using equation 2 because the values for [A] are the same in both and will cancel out.
+- (0.001424 M/s) / (0.000712 M/s) = (k(0.0100 M)<sup>x</sup>(0.00200 M)<sup>y</sup>) / (k(0.0100 M)<sup>x</sup>(0.00100 M)<sup>y</sup>)
+- 2.00 = (0.00200 M)<sup>y</sup> / (0.00100 M)<sup>y</sup>
+- 2.00 = (2.00)<sup>y</sup>
+- y = 1
+- Now to solve k. I am going to use equation 2 again since it has the simplest numbers for [A] and [B]
+- 0.000712 M/s = k(0.0100 M)<sup>2</sup>(0.00100 M)<sup>1</sup>
+- 0.000712 M/s = k(0.000100 M<sup>2</sup>)(0.00100 M)
+- k = (0.000712 M/s) / (0.000000100 M<sup>3</sup>) = 7210/M<sup>2</sup>s
+- so, rate = (7210/M<sup>2</sup>s)[NO]<sup>2</sup>[O<sub>2</sub>]<sup>1</sup>
 
 ## Optional Videos
 
