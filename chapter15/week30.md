@@ -2,7 +2,7 @@
 
 pages 453 - 482
 
-## Week 29
+## Week 30
 
 - Friday - Read pages 467 - 471 stop before How Catalysts Work
 - Monday - Read pages 471 - 475
