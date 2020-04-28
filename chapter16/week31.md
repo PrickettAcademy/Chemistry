@@ -53,6 +53,6 @@ CC5. H<sub>2</sub>O (g) + C (s) <--> H<sub>2</sub> (g) + CO (g) has an equilibri
 
 ## Optional Videos
 
-- 
+- [This video shows you how to get the value of the equilibrium constant. He says that K doesn’t have units, but it really does, as shown in your text.](https://youtu.be/EjWqS7NDWhk)
 
 ## Class Videos
