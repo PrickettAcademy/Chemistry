@@ -54,8 +54,8 @@ CC10. What will happen when the pressure is increased?
 - Increasing the pressure will shift the reaction away from the side with more molecules, so it will shift the reaction towards the reactants
 - So, the concentration of O<sub>2</sub> (a product) will go down.
 
-CC11. give the base ionization constant for C<sub>3</sub>H<sub>3</sub>N which is a weak base.
-- a. K<sub>b</sub> = ([C<sub>3</sub>H<sub>4</sub>N<sup>+</sup>]<sub>eq</sub> * [OH<sup>-</sup>]<sub>eq</sub>) / ([C<sub>3</sub>H<sub>3</sub>N]<sub>eq</sub>)
+CC11. give the base ionization constant for C<sub>5</sub>H<sub>5</sub>N which is a weak base.
+- a. K<sub>b</sub> = ([C<sub>5</sub>H<sub>6</sub>N<sup>+</sup>]<sub>eq</sub> * [OH<sup>-</sup>]<sub>eq</sub>) / ([C<sub>5</sub>H<sub>5</sub>N]<sub>eq</sub>)
 - b. If you read carefully, you would know that the beaker pH 11 contains ammonia, and he says that pH is this base. Since pH 11 is more basic than pH 9, ammonia should be a stronger base than this base. So, the constant should be smaller than ammonia's constant. So, 1.4 x 10<sup>-9</sup> M is the answer.
 
 ## Optional Videos
