@@ -60,6 +60,10 @@ CC11. give the base ionization constant for C<sub>5</sub>H<sub>5</sub>N which is
 
 ## Optional Videos
 
+- [How salt melts ice](https://youtu.be/lpY-jNQml4s)
+- [This video explains how Le Chatelier’s Principle works.](https://youtu.be/dIDgPFEucFM)
+- [This video explains how to figure out the direction an equilibrium will shift when it is stressed.](https://youtu.be/BPDkl92NCUs)
+
 ## Class Videos
 
 - [song](https://youtu.be/NUtjx32jUx4?list=RDNUtjx32jUx4)
