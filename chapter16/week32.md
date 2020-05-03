@@ -32,6 +32,10 @@ pages 483 - 512
 
 ## Examples
 
+[Extra problems](https://bereanbuilders.com/olc/ddchem/ch16_exprob.pdf)
+
+[Answers to the extra problems](https://bereanbuilders.com/olc/ddchem/ch16_exproba.pdf)
+
 CC7. What happens when I add/remove reactants/products
 - a. If I add more product, it shifts the reaction towards the reactants (the reverse reaction) until it reaches equilibrium again. This will cause the concentration of all of the reactants to go up.
 - b. If I remove products, it shifts the reaction towards the products (the forward reaction) until it reaches equilibrium again. This will decrease the concentration of all of the reactants.
